@@ -1,2 +1,4 @@
 com\example\demo\config\SwaggerConfig.class
+com\example\demo\domain\AbstractPersistableCustome.class
+com\example\demo\domain\Office.class
 com\example\demo\WalletApplication.class
