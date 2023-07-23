@@ -22,7 +22,6 @@ import java.io.Serializable;
 public class AbstractPersistableCustome implements Serializable {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.SEQUENCE , generator = "sequence-generator")
     private Long id;
 
 
